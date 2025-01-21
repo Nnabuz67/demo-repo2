@@ -1,0 +1,14 @@
+C:\Users\PETER\Desktop\firstproject\bin\Debug\net9.0\firstproject.exe
+C:\Users\PETER\Desktop\firstproject\bin\Debug\net9.0\firstproject.deps.json
+C:\Users\PETER\Desktop\firstproject\bin\Debug\net9.0\firstproject.runtimeconfig.json
+C:\Users\PETER\Desktop\firstproject\bin\Debug\net9.0\firstproject.dll
+C:\Users\PETER\Desktop\firstproject\bin\Debug\net9.0\firstproject.pdb
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.AssemblyInfoInputs.cache
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.AssemblyInfo.cs
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.dll
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\refint\firstproject.dll
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.pdb
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\firstproject.genruntimeconfig.cache
+C:\Users\PETER\Desktop\firstproject\obj\Debug\net9.0\ref\firstproject.dll
